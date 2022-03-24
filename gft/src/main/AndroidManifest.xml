@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.android.mobly.snippet.platform.telephony">
+    package="com.google.android.mobly.snippet.gft">
 
     <uses-feature android:name="android.hardware.telephony" android:required="false" />
 
