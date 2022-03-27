@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.google.android.mobly.snippet.platform.telephony;
+package com.google.android.mobly.snippet.gft;
 
 import android.content.Context;
 import android.telephony.TelephonyManager;
