@@ -71,9 +71,6 @@ public class SampleTelephonySnippet implements Snippet {
     @Rpc(description = "Return current modem state.")
     public int getRadioPowerState() { return mTelephonyManager.getRadioPowerState(); }
 
-    @Rpc(description = "Return the Electronic Serial Number.")
-    public String getEsn() { return mTelephonyManager.getEsn(); }
-
     @Rpc(description = "Return the baseband version for the default phone.")
     public String getBasebandVersion() { return mTelephonyManager.getBasebandVersion(); }
 
